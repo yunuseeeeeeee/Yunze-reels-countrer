@@ -3,4 +3,5 @@
     <string name="app_name">Yunze Reels Counter</string>
     <string name="a11y_desc">Counts how many Instagram Reels you watch. It only reads the Reels screen and never leaves your phone.</string>
     <string name="widget_desc">Shows how many reels you watched today.</string>
+    <string name="widget_week_desc">Shows your reels for the last seven days.</string>
 </resources>
